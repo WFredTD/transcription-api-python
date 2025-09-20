@@ -53,8 +53,9 @@ Certifique-se de que você tem o **Python 3.8+** e o **FFmpeg** instalados em su
 1.  **Clone o Repositório:**
 
     ```
-    git clone [https://www.dio.me/articles/enviando-seu-projeto-para-o-github](https://www.dio.me/articles/enviando-seu-projeto-para-o-github)
-    cd [pasta do projeto]
+    git clone https://github.com/WFredTD/transcription-api-python.git
+    cd transcription-api-python
+
 
     ```
 
